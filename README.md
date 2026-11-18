@@ -51,3 +51,13 @@ The complete bundle contains **12 working scripts**, including:
 ## License
 
 Sample scripts: MIT. Full bundle: see the Gumroad page.
+---
+
+## Get the full toolkit (instant delivery, no account needed)
+
+The two scripts above are free samples. The complete **Termux Automation Scripts — 12 Working Tools** (health check, storage report, backup+rotation, wifi, log rotate, clipboard, torch, net speed, JSON pretty, cron, boot, pkg audit — all `bash -n` + runtime-verified on Android):
+
+- **Telegram Stars (no signup):** https://t.me/supixxxbot → pick "Termux Automation Scripts" → 1500 ⭐ (~$15)
+- **Card/PayPal (Gumroad):** https://yuhanbreeze.gumroad.com/l/ejubwq
+
+Also in the shop: Termux Security Toolkit, Android USB-CAN Diagnostics, MCP Server Starter Kit, CAN Bus Reverse Engineering, ATS Resume Pack, Debt Validation Letter Pack.
